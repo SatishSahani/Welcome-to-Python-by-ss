@@ -1,1 +1,1 @@
-# Welcome-to-Python-by-ss
+# short-hand on python
